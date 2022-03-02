@@ -1,5 +1,5 @@
 # Essence_WAW
-[![Issues](https://img.shields.io/github/issues/danielkrupinski/Osiris.svg?style=plastic)](https://github.com/ujicos/Essence_WAW/issues)
+[![Issues](https://img.shields.io/github/issues/ujicos/Essence_WAW)](https://github.com/ujicos/Essence_WAW/issues)
 
 A .GSC based mod menu intended for trickshotting on World at War. Supports Steam & [PlutoT4](https://plutonium.pw/docs/install/#t4)
 

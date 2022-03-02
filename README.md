@@ -1,7 +1,7 @@
 # Essence_WAW
 [![Issues](https://img.shields.io/github/issues/ujicos/Essence_WAW)](https://github.com/ujicos/Essence_WAW/issues)
 
-A .GSC based mod menu intended for trickshotting on World at War. Supports Steam & [PlutoT4](https://plutonium.pw/docs/install/#t4)
+A .GSC based mod menu intended for trickshotting on World at War, made with controller in mind. Supports Steam & [PlutoT4](https://plutonium.pw/docs/install/#t4)
 
 Support can be found on my [discord server](https://discord.gg/mDZ3w5jg2Y)
 However, please read the FAQ before opening a issue / asking for help, and keep it friendly.

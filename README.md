@@ -3,9 +3,8 @@
 
 A .GSC based mod menu intended for trickshotting on World at War, made with controller in mind. Supports Steam & [PlutoT4](https://plutonium.pw/docs/install/#t4)
 
-Support can be found on my [discord server](https://discord.gg/mDZ3w5jg2Y)
-However, please read the FAQ before opening a issue / asking for help, and keep it friendly.
-[rushed preview video](https://youtu.be/ceKJp_ACZ6M)
+# Unmaintained
+This repo is currently unmaintained as the community wanted to take matters into their own hands
 
 # Installation
 Download the current up-to-date files, navigate to your Local AppData folder (WIN+R and type &LocalAppdata%), Click the "Activision" folder, then CoDWaW, select the "mods" folder, if it doesn't exist simply make it.

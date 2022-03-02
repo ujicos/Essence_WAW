@@ -5,6 +5,7 @@ A .GSC based mod menu intended for trickshotting on World at War, made with cont
 
 Support can be found on my [discord server](https://discord.gg/mDZ3w5jg2Y)
 However, please read the FAQ before opening a issue / asking for help, and keep it friendly.
+[rushed preview video](https://youtu.be/ceKJp_ACZ6M)
 
 # Installation
 Download the current up-to-date files, navigate to your Local AppData folder (WIN+R and type &LocalAppdata%), Click the "Activision" folder, then CoDWaW, select the "mods" folder, if it doesn't exist simply make it.
